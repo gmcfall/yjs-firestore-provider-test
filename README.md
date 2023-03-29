@@ -1,8 +1,6 @@
 # yjs-firestore-provider-test
 
-This repository is used to test the 
-[@gmcfall/yjs-firestore-provider](https://www.npmjs.com/package/@gmcfall/yjs-firestore-provider)
-package
+This repository is used to test the [@gmcfall/yjs-firestore-provider](https://www.npmjs.com/package/@gmcfall/yjs-firestore-provider) package
 
 ## Installation
 ```bash
