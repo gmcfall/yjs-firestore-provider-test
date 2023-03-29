@@ -5,7 +5,12 @@ This repository is used to test the
 package
 
 ## Installation
+```bash
 git clone https://github.com/gmcfall/yjs-firestore-provider-test.git
+cd yjs-firestore-provider-test
+npm install
+```
+
 
 ## Running
 In the `yjs-firestore-provider-test` folder,
