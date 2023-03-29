@@ -19,7 +19,7 @@ npm start
 
 After the app starts up, check you browser and confirm that no error was thrown.
 
-## Customize the firestore app configuration
+## Customize the firebase app configuration
 You may also try running the test with your own Firestore configuration.
 There are two steps:
 1. Replace the `firebaseConfig` value.
